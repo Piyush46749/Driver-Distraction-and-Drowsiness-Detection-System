@@ -1,1 +1,1 @@
-worker: python Driver_Cam.py.
+worker: python Driver_Cam.py
